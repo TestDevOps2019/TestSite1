@@ -1,0 +1,14 @@
+﻿---
+ID: "8308c2c7-b57d-4a34-b821-b6d3cf70aaf2"
+Parent: "0f879f36-eaa3-4fa7-b423-86db564491d0"
+Template: "0f879f36-eaa3-4fa7-b423-86db564491d0"
+Path: /sitecore/templates/System/Social/Connector/Login with Facebook Button Parameters/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140327T103558
