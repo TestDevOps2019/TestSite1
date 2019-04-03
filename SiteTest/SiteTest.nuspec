@@ -20,6 +20,6 @@
     <file src="bin\*.dll" target="bin" />
     <file src="Views\**\*" target="Views" />
     <file src="App_Data\Unicorn\Test\**\*" target="App_Data\Unicorn\Test" />
-    <file src="App_Config\Include\Unicorn\**\*" target="App_Config\Include\Unicorn" />       
+           
   </files>
 </package>
